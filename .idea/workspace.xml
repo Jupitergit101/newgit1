@@ -9,6 +9,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/newproj1$secsmallest.ic" NAME="secsmallest Coverage Results" MODIFIED="1534822679964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1626945594">
       <usages-collector id="statistics.lifecycle.project">
@@ -19,22 +26,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1207" />
+          <entry key="java" value="2248" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1207" />
+          <entry key="JAVA" value="2248" />
         </counts>
       </usages-collector>
     </session>
@@ -50,11 +57,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/rmduplicate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/secondsortelement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/secsmallest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arraytoarraylist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#270#278#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,12 +118,15 @@
         <option value="$PROJECT_DIR$/src/Worker2.java" />
         <option value="$PROJECT_DIR$/src/commonelement.java" />
         <option value="$PROJECT_DIR$/src/rmduplicate.java" />
+        <option value="$PROJECT_DIR$/src/secondsortelement.java" />
+        <option value="$PROJECT_DIR$/src/secsmallest.java" />
+        <option value="$PROJECT_DIR$/src/arraytoarraylist.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="44" />
-    <option name="y" value="37" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="271" />
+    <option name="y" value="70" />
     <option name="width" value="1729" />
     <option name="height" value="1037" />
   </component>
@@ -117,7 +158,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534776135979" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534822875826" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.rmduplicate">
+  <component name="RunManager" selected="Application.secsmallest">
     <configuration name="Worker2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Worker2" />
       <module name="newproj1" />
@@ -153,14 +194,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="secondsortelement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondsortelement" />
+      <module name="newproj1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="secsmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secsmallest" />
+      <module name="newproj1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Worker2" />
       <item itemvalue="Application.commonelement" />
       <item itemvalue="Application.rmduplicate" />
+      <item itemvalue="Application.secondsortelement" />
+      <item itemvalue="Application.secsmallest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.secsmallest" />
         <item itemvalue="Application.rmduplicate" />
+        <item itemvalue="Application.secondsortelement" />
         <item itemvalue="Application.commonelement" />
         <item itemvalue="Application.Worker2" />
       </list>
@@ -180,22 +239,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="37" width="1729" height="1037" extended-state="0" />
+    <frame x="271" y="70" width="1729" height="1037" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24200362" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24200362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33714285" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33714285" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32155073" />
+      <window_info anchor="bottom" id="Messages" weight="0.32" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3359375" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34285715" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.390625" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,6 +280,12 @@
           <line>6</line>
           <properties />
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secondsortelement.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -251,6 +316,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondsortelement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secsmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraytoarraylist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#270#278#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
