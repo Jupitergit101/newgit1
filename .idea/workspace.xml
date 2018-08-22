@@ -40,12 +40,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7633" />
+          <entry key="java" value="7709" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7633" />
+          <entry key="JAVA" value="7709" />
         </counts>
       </usages-collector>
     </session>
@@ -55,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Readfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="82">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,7 +136,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534962577206" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534967035122" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -248,11 +248,11 @@
       <window_info id="Structure" order="6" sideWeight="0.5016779" side_tool="true" weight="0.18776824" />
       <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.36800894" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5005365" side_tool="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.22259887" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.2572707" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32997763" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.11297539" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.26957494" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49946353" weight="0.33333334" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -347,9 +347,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Readfile.java</url>
-          <line>10</line>
+          <line>13</line>
           <properties />
-          <option name="timeStamp" value="41" />
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -482,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Readfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="82">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
