@@ -30,57 +30,36 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="21" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7218" />
+          <entry key="java" value="7633" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7218" />
+          <entry key="JAVA" value="7633" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/getsetmethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-              <folding>
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/getsetmethodcall.java">
+        <entry file="file://$PROJECT_DIR$/src/Readfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/getname.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            <state relative-caret-position="458">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,13 +97,14 @@
         <option value="$PROJECT_DIR$/src/Entryvalue.java" />
         <option value="$PROJECT_DIR$/src/uselooparraylist.java" />
         <option value="$PROJECT_DIR$/src/getsetmethod.java" />
-        <option value="$PROJECT_DIR$/src/getname.java" />
         <option value="$PROJECT_DIR$/src/getsetmethodcall.java" />
+        <option value="$PROJECT_DIR$/src/getname.java" />
+        <option value="$PROJECT_DIR$/src/Readfile.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="230" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="136" />
     <option name="width" value="1729" />
     <option name="height" value="1037" />
   </component>
@@ -156,7 +136,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534960133070" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534962577206" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -173,9 +153,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.getname">
+  <component name="RunManager" selected="Application.Readfile">
     <configuration name="Entryvalue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Entryvalue" />
+      <module name="newproj1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Readfile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Readfile" />
       <module name="newproj1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -202,13 +189,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="secondsortelement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondsortelement" />
-      <module name="newproj1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="uselooparraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="uselooparraylist" />
       <module name="newproj1" />
@@ -226,19 +206,19 @@
     <list>
       <item itemvalue="Application.xercise26" />
       <item itemvalue="Application.commoninthreearrays" />
-      <item itemvalue="Application.secondsortelement" />
       <item itemvalue="Application.Entryvalue" />
       <item itemvalue="Application.uselooparraylist" />
       <item itemvalue="Application.getsetmethodcall" />
       <item itemvalue="Application.getname" />
+      <item itemvalue="Application.Readfile" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Readfile" />
         <item itemvalue="Application.getname" />
         <item itemvalue="Application.getsetmethodcall" />
         <item itemvalue="Application.uselooparraylist" />
         <item itemvalue="Application.Entryvalue" />
-        <item itemvalue="Application.secondsortelement" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +236,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="230" y="0" width="1729" height="1037" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -264,15 +244,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49832216" visible="true" weight="0.2112251" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49832216" weight="0.2112251" />
       <window_info id="Structure" order="6" sideWeight="0.5016779" side_tool="true" weight="0.18776824" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.22706935" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.36800894" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5005365" side_tool="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.33668903" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.22259887" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32997763" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.344" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.11297539" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49946353" weight="0.33333334" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -293,23 +273,23 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1882921" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.31864408" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.33714285" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49832216" visible="true" weight="0.2112251" />
+      <window_info id="Structure" order="6" sideWeight="0.5016779" side_tool="true" weight="0.18776824" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.3683616" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5005365" side_tool="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.22259887" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32997763" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33028573" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.33371428" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.344" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49946353" weight="0.33333334" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32997763" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.29269764" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.29238197" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
@@ -364,6 +344,12 @@
           <line>1</line>
           <properties />
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Readfile.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -484,17 +470,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/getname.java">
+    <entry file="file://$PROJECT_DIR$/src/getsetmethodcall.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="357">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/getsetmethodcall.java">
+    <entry file="file://$PROJECT_DIR$/src/getname.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Readfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="458">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
